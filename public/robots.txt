@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /app
+Disallow: /portefeuille
+Sitemap: https://alwenasshop.com/sitemap.xml
